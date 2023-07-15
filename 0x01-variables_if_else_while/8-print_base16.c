@@ -7,11 +7,11 @@
 
 int main(void)
 {
-	char c;
+	char c;	
 
 	int d;
 
-	c ='a';
+	c = 'a';
 	d = 0;
 	while
 		(d < 10) {
