@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+/**
+ * main - prints number of arguements
+ * @argc: arguements count
+ * @argv: arguement vector
+ * Return: 0
+ */
+
+int main(int argc, char *argv[])
+{
+	(void) argv;
+
+	printf("%d\n", argc);
+	return (0);
+}
